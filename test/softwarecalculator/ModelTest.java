@@ -36,6 +36,7 @@ public class ModelTest {
     
     @After
     public void tearDown() {
+      
     }
 
     /**
@@ -74,7 +75,7 @@ public class ModelTest {
         Model instance = new Model();
         instance.reset();
         // TODO review the generated test code and remove the default call to fail.
-        fail("The test case is a prototype.");
+        
     }
 
     /**
@@ -144,6 +145,7 @@ public class ModelTest {
         instance.resetLastInput();
         // TODO review the generated test code and remove the default call to fail.
         fail("The test case is a prototype.");
+        
     }
 
     /**
@@ -151,12 +153,13 @@ public class ModelTest {
      */
     @Test
     public void testEditLatestInput() {
+        
         System.out.println("editLatestInput");
         String text = "";
         Model instance = new Model();
         instance.editLatestInput(text);
-        // TODO review the generated test code and remove the default call to fail.
         fail("The test case is a prototype.");
+        
     }
     
 }

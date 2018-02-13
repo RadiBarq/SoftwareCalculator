@@ -15,9 +15,9 @@ import java.math.RoundingMode;
 import java.util.ArrayList;
 
 public class Model {
-
+    
 	private ArrayList<Data> sequence = new ArrayList<>();
-
+        
 	public void addData(String buttonText) {
 		int type = findDataType(buttonText);
 		sequence.add(new Data(buttonText, type));
@@ -105,11 +105,8 @@ public class Model {
 		data.setValue(text);
 		sequence.set(latestIndex, data);
                 
-                
-             
 	}
-
-
+        
 	public static class Data {
 
 		public static final int TYPE_OPERATOR = 1;
