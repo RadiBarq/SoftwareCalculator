@@ -19,7 +19,7 @@ This calculator performs the basic operations in any basic calculator, and devel
 <h2>Authors</h2>
 <p>This project created by radi barq, but feel free to use the code or contact me for any questions on my email grayllow@gmail.com</p>
 
-<h2>Licence</h2>
+<h2>License</h2>
 <p>This project is licensed under the MIT License - see the LICENSE.md file for details.</p>
 
 
