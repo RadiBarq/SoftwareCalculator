@@ -2,7 +2,7 @@
 
 <h2>About The Project</h2>
 <p>This MVC calculator developed for the Software Engineering Course to implement the MVC knowledge we learned through the course.
-This calculator performes the basic operations in any basic calculator, and developed using Java programming language and netbeans IDE.
+This calculator performs the basic operations in any basic calculator, and developed using Java programming language and NetBeans IDE.
 </p>
 
 <h2>Technologies Used</h2>
